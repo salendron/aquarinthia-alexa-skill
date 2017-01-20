@@ -1,0 +1,31 @@
+{"intents":
+ [
+  {
+    "intent":"IntentLaketemp",
+    "slots":[
+      {
+        "name":"LakeName",
+        "type":"LAKES"
+      }
+    ]
+  },
+  {
+    "intent":"IntentLakeWaterHeight",
+    "slots":[
+      {
+        "name":"LakeName",
+        "type":"LAKES"
+      }
+    ]
+  },
+  {
+    "intent":"IntentLakeInfo",
+    "slots":[
+      {
+        "name":"LakeName",
+        "type":"LAKES"
+      }
+    ]
+  }
+ ]
+}

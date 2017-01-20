@@ -1,0 +1,8 @@
+IntentLaketemp wie warm ist der {LakeName}
+IntentLaketemp wie warm der {LakeName} ist
+IntentLaketemp wie kalt ist der {LakeName}
+IntentLaketemp wie kalt der {LakeName} ist
+IntentLakeWaterHeight wie hoch ist der pegelstand des {LakeName}
+IntentLakeWaterHeight wie hoch der pegelstand des {LakeName} ist
+IntentLakeInfo Informationen zum {LakeName}
+IntentLakeInfo nach Informationen zum {LakeName}
